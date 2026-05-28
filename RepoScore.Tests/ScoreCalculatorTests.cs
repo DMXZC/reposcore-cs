@@ -1,7 +1,7 @@
 using RepoScore.Data;
 using Xunit;
 
-namespace RepoScore.Test;
+namespace RepoScore.Tests;
 
 public class ScoreCalculatorTests
 {

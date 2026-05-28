@@ -2,7 +2,7 @@ using System.Text.Json;
 using RepoScore.Services;
 using Xunit;
 
-namespace RepoScore.Test;
+namespace RepoScore.Tests;
 
 public class GitHubServiceTests
 {
